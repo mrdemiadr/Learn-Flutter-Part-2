@@ -40,7 +40,10 @@ class HalamanUtama extends StatelessWidget {
                     },
                     child: ListTile(
                       leading: Image.network(
-                        'https://lh3.googleusercontent.com/proxy/kOQOH4MheY9vBttmMCAQ4fTsq6jXejGCkrvrE9YPeEiVBuF93c3PpFx6vVAjYh0Z17CWaYSy4vJe_wRLebzoFxvOiNwNJvIGaD0I9mSLFR6rAT3LHk06',
+                        'http://www.sulutexpress.com/wp-content/uploads/2020/09/logoapple.png',
+                        height: 50.0,
+                        width: 50.0,
+                        scale: 20.0,
                       ),
                       title: Text('Apple'),
                     ),
@@ -57,6 +60,8 @@ class HalamanUtama extends StatelessWidget {
                     child: ListTile(
                       leading: Image.asset(
                         'assets/img/androidlogo.png',
+                        height: 50.0,
+                        width: 50.0,
                       ),
                       title: Text('Android'),
                     ),
