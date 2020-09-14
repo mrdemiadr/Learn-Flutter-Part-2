@@ -8,5 +8,4 @@ Belajar mengenai:
 
 - Image Widget
 - Font
-- Expanded Widget
 - Navigation
